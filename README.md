@@ -1,2 +1,4 @@
 # T1DSUseExample
-User scripts for T1DS
+
+User scripts related to: https://github.com/annaskyjensen/T1DS
+
